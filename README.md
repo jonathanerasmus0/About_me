@@ -1,7 +1,7 @@
 <div style="margin-bottom: 20px;">
     <img align="left" src="https://img.shields.io/badge/visitors-1120-blue" />
     <h1 align="center" style="margin-top: 30px;">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonathan+Davies!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonathan+Erasmus+Davies!;" />
     </h1>
     <h3 align="center">Software Developer, Python {} Django from Berlin :de:</h3>
     <br/>
