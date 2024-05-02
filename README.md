@@ -13,7 +13,7 @@
   <a href="mailto:joesaudi@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jonathan-erasmus-davies-396a1420?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="www.linkedin.com/in/jonathan-erasmus-davies-396a1420 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
