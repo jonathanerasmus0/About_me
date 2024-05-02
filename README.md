@@ -25,7 +25,7 @@
 <h2 align="center">:hammer_and_pick: Languages-Frameworks-Tools :hammer_and_pick:</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,spring,mysql,postgresql,windows,linux,apple" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,postgresql,windows,linux,apple" />
     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,css,html" />
     <img src="https://skillicons.dev/icons?i=github,vscode" /><br>
 </div>
