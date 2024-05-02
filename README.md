@@ -13,7 +13,7 @@
   <a href="mailto:joesaudi@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jonathan-erasmus-davies-396a1420 target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-erasmus-davies-396a1420" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
@@ -29,4 +29,4 @@
     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,css,html" />
     <img src="https://skillicons.dev/icons?i=github,vscode" /><br>
 </div>
-<br/>
+
