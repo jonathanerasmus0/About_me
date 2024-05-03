@@ -7,7 +7,7 @@
     <br/>
     <ul style="list-style-type: none; padding: 0; text-align: center;">
         <li>- :telescope: I’m currently working on <strong>my final project</strong></li>
-        <li>- :seedling: Currently learning Python with DCI in an intensive one year professional training, with 1800 hours of remote classes, focusing on the next topics:  <strong>Python, SQL, PostgreSQL, Django Framework, REST APIs,</strong>  and much much more</li>
+        <li>- :seedling: Currently learning Python with DCI in an intensive one year professional training, with 1800 hours of remote classes, focusing on the following topics:  <strong>Python, SQL, PostgreSQL, Django Framework, REST APIs,</strong>  and much much more</li>
         <li>- :speech_balloon: Ask me about <strong>anything you want</strong></li>
         <li>- :smile: Pronouns: <strong>He/Him</strong></li>
     </ul>
